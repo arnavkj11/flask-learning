@@ -1,0 +1,9 @@
+[project]
+name = "repl-nix-flask-learning"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.0",
+    "style>=1.1.6",
+]
